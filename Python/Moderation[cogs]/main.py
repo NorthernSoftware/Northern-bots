@@ -1,7 +1,7 @@
 # Imports
-# Neekeri
 import nextcord
 from nextcord.ext import commands
+import json
 
 # Config #
 # Embed
